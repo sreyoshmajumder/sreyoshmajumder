@@ -2,9 +2,9 @@
 - 👀 I’m interested in DSA AND CODING
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... ---> sreyosh.neel@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I AM AN AMBIVERT
+
 
 <!---
 sreyoshmajumder/sreyoshmajumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
