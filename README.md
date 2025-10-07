@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @sreyoshmajumder
-- 👀 I’m interested in DSA AND CODING
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ---> sreyosh.neel@gmail.com
-- 😄 Pronouns: HE/HIM
+SIMPLY SLEPYYYY
 
 
 <!---
