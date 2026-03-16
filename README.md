@@ -1,41 +1,36 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SREYOSH%20MAJUMDER&fontSize=42&fontColor=00f5ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full-Stack%20Builder&descAlignY=58&descColor=b044ff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SREYOSH%20MAJUMDER&fontSize=46&fontColor=00f5ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full-Stack%20Builder&descAlignY=60&descColor=b044ff&animation=fadeIn)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%3E+Turning+Data+into+Intelligence...;%3E+Building+Things+That+Actually+Matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=%3E+Turning+Data+into+Intelligence...;%3E+From+Brain+Tumors+to+Sports+Analytics+%E2%80%94+AI+Does+It+All.;%3E+Always+Building.+Always+Shipping.)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/sreyoshmajumder?style=for-the-badge&color=00f5ff&labelColor=0a0a0f&logo=github)](https://github.com/sreyoshmajumder)
+[![GitHub followers](https://img.shields.io/github/followers/sreyoshmajumder?style=for-the-badge&color=00f5ff&labelColor=0a0a0f&logo=github&label=FOLLOWERS)](https://github.com/sreyoshmajumder)
 [![Profile Views](https://komarev.com/ghpvc/?username=sreyoshmajumder&style=for-the-badge&color=b044ff&label=PROFILE+VIEWS)](https://github.com/sreyoshmajumder)
+[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-20+-39ff14?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sreyoshmajumder?tab=repositories)
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-<div align="center">
-
 ## ⚡ `whoami`
-
-</div>
 
 ```python
 class Sreyosh:
-    name        = "Sreyosh Majumder"
-    role        = ["AI/ML Developer", "Full-Stack Builder", "SIH Participant"]
-    location    = "India 🇮🇳"
-    languages   = ["Python", "JavaScript", "HTML/CSS", "SQL"]
-    interests   = ["Deep Learning", "Computer Vision", "Web AI", "Data Science"]
-    currently   = "Building impactful AI projects 🚀"
-    ask_me_about = ["ML models", "Web apps", "AI in Healthcare", "Hackathons"]
-    fun_fact    = "I trained a model to detect brain tumors before my morning coffee ☕"
+    name         = "Sreyosh Majumder"
+    role         = ["CS/IT Student", "AI/ML Developer", "Full-Stack Builder"]
+    location     = "India 🇮🇳"
+    languages    = ["Python", "JavaScript", "HTML/CSS", "SQL"]
+    focus_areas  = ["Deep Learning", "Computer Vision", "Web Development", "Data Science"]
+    hackathons   = ["Smart India Hackathon (SIH) 🏆"]
+    projects     = 20   # and counting...
+    currently    = "Building impactful AI tools that solve real problems 🚀"
+    ask_me_about = ["ML models", "Web apps", "AI in Healthcare & Sports", "Hackathons"]
+    fun_fact     = "I built a brain tumor detector before my morning coffee ☕"
 ```
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -46,8 +41,9 @@ class Sreyosh:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=ffd700)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=ff6347)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=264de4)
+![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=00f5ff)
 
-**AI / ML Frameworks**
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
@@ -55,43 +51,80 @@ class Sreyosh:
 ![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0f?style=for-the-badge&logo=python&logoColor=11557c)
 
-**Web & Backend**
+**Web & Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=00f5ff)
 ![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=f05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0f?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🔥 Featured Projects
+## 🔥 All Projects
 
-<div align="center">
+### 🧠 AI / Machine Learning Projects
 
-| 🏷️ Project | 💡 Description | 🛠️ Stack |
+| 🏷️ Project | 💡 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **🧠 Brain Tumor Detector** | CNN-based MRI classifier for early-stage brain tumor detection. Includes ROC curves, class distribution pie chart & model performance bar chart | `Python` `TensorFlow` `OpenCV` `CNN` | [→ View](https://github.com/sreyoshmajumder/BRAIN-TUMOR-DETECTOR) |
+| **⚡ AI Sports Analyzer** | AI-powered sports performance analytics engine for player evaluation and game insights | `Python` `ML` `Data Analysis` | [→ View](https://github.com/sreyoshmajumder/AI-SPORTS-ANALYZER) |
+
+---
+
+### 🌐 Web Development Projects
+
+| 🏷️ Project | 💡 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **🎬 Movie Recommender** | Smart recommendation website — shows movie name, ratings & full plot summary for any query | `JavaScript` `HTML` `CSS` | [→ View](https://github.com/sreyoshmajumder/Movie-Recommender) |
+| **📋 Attendance Taker** | Complete attendance management system for teachers and admins with easy record tracking | `HTML` `CSS` `JavaScript` | [→ View](https://github.com/sreyoshmajumder/Attendance-Taker) |
+| **🏋️ Exercise Video Uploader** | Web platform to upload, manage and display exercise/workout video content | `HTML` `CSS` `JavaScript` | [→ View](https://github.com/sreyoshmajumder/exercise-video-uploader) |
+
+---
+
+### 🏆 Hackathon & Team Projects
+
+| 🏷️ Project | 💡 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **🇮🇳 SIH — Smart India Hackathon** | National-level hackathon entry — team collaboration project built for SIH | `Python` `Team` `Hackathon` | [→ View](https://github.com/sreyoshmajumder/SIH) |
+
+---
+
+### 📦 More Repositories
+
+> ⚠️ **Action needed:** Replace the entries below with your actual remaining 14 repo names and descriptions.
+> You can see all your repos at: [github.com/sreyoshmajumder?tab=repositories](https://github.com/sreyoshmajumder?tab=repositories)
+> Just paste the real names + a one-line description for each below!
+
+| 🏷️ Repository | 💡 Description | 🔗 |
 |---|---|---|
-| [🧠 Brain Tumor Detector](https://github.com/sreyoshmajumder/BRAIN-TUMOR-DETECTOR) | CNN-based MRI classifier for early tumor detection — real-world medical AI impact | `Python` `TensorFlow` `OpenCV` |
-| [⚡ AI Sports Analyzer](https://github.com/sreyoshmajumder/AI-SPORTS-ANALYZER) | AI-driven sports performance analytics and player evaluation engine | `Python` `ML` |
-| [🎬 Movie Recommender](https://github.com/sreyoshmajumder/Movie-Recommender) | Smart recommendation engine with ratings, summaries and mood-based picks | `JavaScript` `HTML` |
-| [📋 Attendance Taker](https://github.com/sreyoshmajumder/Attendance-Taker) | Smart attendance management system for teachers and admins | `HTML` `CSS` `JS` |
-| [🇮🇳 SIH – Smart India Hackathon](https://github.com/sreyoshmajumder/SIH) | National-level hackathon team collaboration project | `Python` `Team` |
-| [🏋️ Exercise Video Uploader](https://github.com/sreyoshmajumder/exercise-video-uploader) | Web platform for uploading and managing exercise video content | `HTML` `CSS` |
-
-</div>
+| Repo 7 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 8 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 9 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 10 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 11 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 12 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 13 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 14 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 15 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 16 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 17 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 18 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 19 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
+| Repo 20 | *(add description)* | [→ View](https://github.com/sreyoshmajumder) |
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sreyoshmajumder&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=b044ff&text_color=e0e0ff&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyoshmajumder&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e0e0ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreyoshmajumder&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=b044ff&text_color=e0e0ff&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyoshmajumder&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e0e0ff&langs_count=8" />
 
 </div>
 
@@ -103,7 +136,6 @@ class Sreyosh:
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -114,7 +146,6 @@ class Sreyosh:
 
 ---
 
-<!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -125,45 +156,45 @@ class Sreyosh:
 
 ---
 
-<!-- CURRENTLY LEARNING / GOALS -->
 ## 🎯 Current Focus
 
 ```yaml
 learning:
-  - Advanced Deep Learning architectures (Transformers, GANs)
-  - MLOps & model deployment at scale
+  - Advanced Deep Learning (Transformers, CNNs, GANs)
+  - MLOps and model deployment at scale
   - LLM fine-tuning and RAG pipelines
+  - REST APIs with Flask and FastAPI
 
 building:
-  - AI tools with real-world medical and sports applications
+  - AI tools with real-world medical and sports impact
   - Full-stack web apps powered by ML backends
+  - Data pipelines for large-scale analysis
 
 goals_2025:
-  - Contribute to open-source AI projects
-  - Publish research or technical blog posts
-  - Intern at an AI/ML focused company
+  - Contribute to open-source AI/ML projects
+  - Publish technical blog posts or research notes
+  - Land an AI/ML internship at an impactful company
+  - Win more hackathons 🏆
 ```
 
 ---
 
-<!-- CONNECT -->
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sreyoshmajumder-0a0a0f?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/sreyoshmajumder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff2d78)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff2d78)](mailto:YOUR_EMAIL@gmail.com)
 
-> 💬 *"Open to collaborations, research discussions, and building cool things together."*
+> 💬 *"Open to collaborations, research discussions, internships, and building cool things together."*
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00f5ff&fontAlignY=65)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20amazing.&fontSize=16&fontColor=00f5ff&fontAlignY=65)
 
 </div>
