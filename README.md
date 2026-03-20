@@ -3,11 +3,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SREYOSH%20MAJUMDER&fontSize=46&fontColor=00f5ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full-Stack%20Builder&descAlignY=60&descColor=b044ff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%3E+Turning+Raw+Data+into+Real+Intelligence...;%3E+From+Brain+Tumors+to+Satellite+Monitoring+%E2%80%94+AI+Does+It+All.;%3E+20+Projects.+One+Mission.+Always+Shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%3E+Turning+Raw+Data+into+Real+Intelligence...;%3E+From+Brain+Tumors+to+Satellite+Monitoring+%E2%80%94+AI+Does+It+All.;%3E+21+Projects.+One+Mission.+Always+Shipping.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/sreyoshmajumder?style=for-the-badge&color=00f5ff&labelColor=0a0a0f&logo=github&label=FOLLOWERS)](https://github.com/sreyoshmajumder)
 [![Profile Views](https://komarev.com/ghpvc/?username=sreyoshmajumder&style=for-the-badge&color=b044ff&label=PROFILE+VIEWS)](https://github.com/sreyoshmajumder)
-[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-20-39ff14?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sreyoshmajumder?tab=repositories)
+[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-21-39ff14?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sreyoshmajumder?tab=repositories)
 
 </div>
 
@@ -20,13 +20,13 @@ class Sreyosh:
     name         = "Sreyosh Majumder"
     role         = ["CS/IT Student", "AI/ML Developer", "Full-Stack Builder"]
     location     = "India 🇮🇳"
-    languages    = ["Python", "JavaScript", "HTML/CSS", "TypeScript"]
-    focus_areas  = ["Deep Learning", "Computer Vision", "Web AI", "Data Science"]
+    languages    = ["Python", "JavaScript", "HTML/CSS", "TypeScript", "Solidity"]
+    focus_areas  = ["Deep Learning", "Computer Vision", "Web AI", "Data Science", "Blockchain / Web3"]
     hackathons   = ["Smart India Hackathon (SIH) 🏆"]
-    projects     = 20
+    projects     = 21
     currently    = "Building impactful AI tools that solve real problems 🚀"
     ask_me_about = ["ML models", "Web apps", "AI in Healthcare & Civic Tech", "Hackathons"]
-    fun_fact     = "I built a brain tumor detector AND a satellite change monitor. Before lunch. 🛰️"
+    fun_fact     = "I built a brain tumor detector, a satellite change monitor, AND a blockchain dApp. Before lunch. ⛓️"
 ```
 
 ---
@@ -61,11 +61,18 @@ class Sreyosh:
 ![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=f05032)
 ![Vercel](https://img.shields.io/badge/Vercel-0a0a0f?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
+**Blockchain / Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-0a0a0f?style=for-the-badge&logo=solidity&logoColor=a855f7)
+![Ethereum](https://img.shields.io/badge/Ethereum-0a0a0f?style=for-the-badge&logo=ethereum&logoColor=9333ea)
+![ethers.js](https://img.shields.io/badge/ethers.js-0a0a0f?style=for-the-badge&logo=ethereum&logoColor=c084fc)
+![MetaMask](https://img.shields.io/badge/MetaMask-0a0a0f?style=for-the-badge&logo=metamask&logoColor=f6851b)
+
 </div>
 
 ---
 
-## 🔥 All 20 Projects
+## 🔥 All 21 Projects
 
 ### 🧠 AI / Machine Learning
 
@@ -112,6 +119,13 @@ class Sreyosh:
 | 🏷️ Project | 💡 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
 | **🇮🇳 SIH — Smart India Hackathon** | National-level hackathon team project — AI pose analyzer for pushups, situps, squats & sprints using body landmark detection and 3D distance computation. Deployed on Vercel | `Python` `OpenCV` `HTML` `Vercel` | [→ View](https://github.com/sreyoshmajumder/SIH) |
+
+
+### ⛓️ Blockchain / Web3
+
+| 🏷️ Project | 💡 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **🔐 Student Credential Vault** | Decentralized student credential vault — colleges issue tamper-proof degrees, internships & certificates on-chain; employers verify them instantly using a unique credential ID. No middlemen. No fakes. | `Solidity` `Ethereum` `React` `ethers.js` `MetaMask` | [→ View](https://github.com/sreyoshmajumder/student-credential-vault) |
 
 ---
 
@@ -171,6 +185,7 @@ goals_2025:
   - Publish technical blog posts or research notes
   - Land an AI/ML internship at an impactful company
   - Win more hackathons 🏆
+  - Explore more Web3 and blockchain projects ⛓️
 ```
 
 ---
@@ -180,8 +195,8 @@ goals_2025:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sreyoshmajumder-0a0a0f?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/sreyoshmajumder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](www.linkedin.com/in/sreyosh-majumder-48a269207)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff2d78)](mailto:sreyosh.neel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff2d78)](mailto:YOUR_EMAIL@gmail.com)
 
 > 💬 *"Open to collaborations, research discussions, internships, and building cool things together."*
 
