@@ -3,11 +3,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SREYOSH%20MAJUMDER&fontSize=46&fontColor=00f5ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full-Stack%20Builder&descAlignY=60&descColor=b044ff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%3E+Turning+Raw+Data+into+Real+Intelligence...;%3E+From+Brain+Tumors+to+Satellite+Monitoring+%E2%80%94+AI+Does+It+All.;%3E+21+Projects.+One+Mission.+Always+Shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%3E+Turning+Raw+Data+into+Real+Intelligence...;%3E+From+Brain+Tumors+to+Satellite+Monitoring+%E2%80%94+AI+Does+It+All.;%3E+22+Projects.+One+Mission.+Always+Shipping.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/sreyoshmajumder?style=for-the-badge&color=00f5ff&labelColor=0a0a0f&logo=github&label=FOLLOWERS)](https://github.com/sreyoshmajumder)
 [![Profile Views](https://komarev.com/ghpvc/?username=sreyoshmajumder&style=for-the-badge&color=b044ff&label=PROFILE+VIEWS)](https://github.com/sreyoshmajumder)
-[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-21-39ff14?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sreyoshmajumder?tab=repositories)
+[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-22-39ff14?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sreyoshmajumder?tab=repositories)
 
 </div>
 
@@ -23,10 +23,10 @@ class Sreyosh:
     languages    = ["Python", "JavaScript", "HTML/CSS", "TypeScript", "Solidity"]
     focus_areas  = ["Deep Learning", "Computer Vision", "Web AI", "Data Science", "Blockchain / Web3"]
     hackathons   = ["Smart India Hackathon (SIH) 🏆"]
-    projects     = 21
+    projects     = 22
     currently    = "Building impactful AI tools that solve real problems 🚀"
     ask_me_about = ["ML models", "Web apps", "AI in Healthcare & Civic Tech", "Hackathons"]
-    fun_fact     = "I built a brain tumor detector, a satellite change monitor, AND a blockchain dApp. Before lunch. ⛓️"
+    fun_fact     = "I built a brain tumor detector, a tamper-proof medical record system, AND a satellite monitor. Before lunch. 🏥⛓️"
 ```
 
 ---
@@ -72,7 +72,7 @@ class Sreyosh:
 
 ---
 
-## 🔥 All 21 Projects
+## 🔥 All 22 Projects
 
 ### 🧠 AI / Machine Learning
 
@@ -126,6 +126,7 @@ class Sreyosh:
 | 🏷️ Project | 💡 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
 | **🔐 Student Credential Vault** | Decentralized student credential vault — colleges issue tamper-proof degrees, internships & certificates on-chain; employers verify them instantly using a unique credential ID. No middlemen. No fakes. | `Solidity` `Ethereum` `React` `ethers.js` `MetaMask` | [→ View](https://github.com/sreyoshmajumder/student-credential-vault) |
+| **🏥 Medical Report Integrity Checker** | Tamper-proof medical records using IPFS + Ethereum — hospitals upload lab reports to IPFS via Pinata, anchor the CID on-chain, and patients/auditors instantly verify report integrity without trusting any central authority. | `Solidity` `IPFS` `Pinata` `React` `ethers.js` `Node.js` `Moralis` | [→ View](https://github.com/sreyoshmajumder/medical-report-integrity-checker) |
 
 ---
 
